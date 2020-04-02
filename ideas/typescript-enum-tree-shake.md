@@ -7,7 +7,7 @@ export enum Fruit {
 }
 ```
 
-produces following JavaScript:
+produces following JavaScript (target = ESNext, module = ESNext):
 
 ```javascript
 export var Fruit;
