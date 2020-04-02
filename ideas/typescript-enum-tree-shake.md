@@ -21,7 +21,7 @@ The top level IIFE code is flagged as a side effect with static code analysis to
 
 A new mode can be introduced where the output JavaScript will be following:
 
-```
+```javascript
 export const Fruit = {
     apple: 0,
     banana: 0,
